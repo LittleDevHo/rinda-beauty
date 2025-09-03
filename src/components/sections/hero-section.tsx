@@ -8,8 +8,8 @@ const HeroSection = () => {
         <div className="flex w-[1920px] items-center justify-center">
           <div className="mt-[165px] h-[635px] overflow-hidden">
             <Image
-              alt="K-뷰티 브랜드가 진출하는 전 세계 주요 국가들"
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/2a4db9ca-b34c-4074-876b-2e677dc77635/generated_images/vector-illustration-of-global-country-fl-dc712dcd-20250903083151.jpg?"
+              alt="글로벌 뷰티 시장에 진출하는 다양한 K-뷰티 브랜드들"
+              src="https://static.cdn.kmong.com/assets/enterprise/desktop/main/enterprise-hero-company.png?w=1170"
               width={1170}
               height={1170}
               className="z-10 origin-center animate-spin [animation-duration:60s] opacity-80"
